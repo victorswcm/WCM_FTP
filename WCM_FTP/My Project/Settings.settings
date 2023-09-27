@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TimerInterval" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">90000</Value>
+    </Setting>
+    <Setting Name="FoodBuyOnline_FTP_SITE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://ftp.epsys.co.uk/Outbox</Value>
+    </Setting>
+    <Setting Name="FoodBuyOnline_FTP_USER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wcmilk</Value>
+    </Setting>
+    <Setting Name="FoodBuyOnline_FTP_PW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">QWkgMxwC5</Value>
+    </Setting>
+    <Setting Name="EMAIL_FROM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">administrator@wcmilk.co.uk</Value>
+    </Setting>
+    <Setting Name="Email_Success" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">peter@wcmilk.co.uk</Value>
+    </Setting>
+    <Setting Name="FoodBuyOnline_ORDERS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\wcm-exe-fp01\OfficeShare\FoodBuy_Online\ORDERS</Value>
+    </Setting>
+    <Setting Name="Email_Error" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">peter@wcmilk.co.uk</Value>
+    </Setting>
+    <Setting Name="Switch_FoodBuyOnline" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Switch_Interserve_saffron" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_SITE_RESPONSE_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://fdh.ftpstream.com/Live/ToSaffron</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_SITE_RESPONSE_SAFFRON_TEST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://fdh.ftpstream.com/Test/ToSaffron</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_SITE_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://fdh.ftpstream.com/Live/FromSaffron</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_SITE_SAFFRON_TEST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://fdh.ftpstream.com/Test/FromSaffron</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_USER_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">westcountrymilk</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_FTP_PW_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Se{Ng3@{w.</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_ORDERS_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\wcm-exe-fp01\OfficeShare\INTERSERVE\ORDER_IN_SAFFRON</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_RESPONSE_SAFFRON" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\wcm-exe-fp01\OfficeShare\INTERSERVE\ASN_SAFFRON</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_RESPONSE_SAFFRON_TEST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\wcm-exe-fp01\OfficeShare\INTERSERVE\ASN_TEST_SAFFRON</Value>
+    </Setting>
+    <Setting Name="INTERSERVE_ORDERS_SAFFRON_TEST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\wcm-exe-fp01\OfficeShare\INTERSERVE\ORDER_IN_TEST_SAFFRON</Value>
+    </Setting>
+    <Setting Name="Switch_Freshpastures" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Freshpastures_FTP_SITE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://edi-fp.deliverysoftware.co.uk</Value>
+    </Setting>
+    <Setting Name="Freshpastures_FTP_USER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wcmilk-fp</Value>
+    </Setting>
+    <Setting Name="Freshpastures_FTP_PW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">v0Fq65TjkD*fUq#x9a9e</Value>
+    </Setting>
+    <Setting Name="Freshpastures_ORDERS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\WCM-EXE-FP01\Officeshare\DairyData\FreshPastures\out</Value>
+    </Setting>
+    <Setting Name="Switch_MillsMilk" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MillsMilk_FTP_SITE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MillsMilk_FTP_USER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MillsMilk_FTP_PW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MillsMilk_ORDERS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\WCM-EXE-FP01\Officeshare\DairyData\MillsMilk</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
